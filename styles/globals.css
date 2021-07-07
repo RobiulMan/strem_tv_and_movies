@@ -24,3 +24,6 @@
 .group-hover\:bounceOrig:hover {
   animation: bounceOrig 1s infinite;
 } */
+.overflow-x-scroll {
+  white-space: nowrap;
+}
