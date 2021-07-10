@@ -8,22 +8,3 @@
     @apply bg-green-700 text-gray-200;
   }
 }
-/* 
-@keyframes bounceOrig {
-  0%,
-  100% {
-    transform: translateY(0);
-    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
-  }
-  50% {
-    transform: translateY(25%);
-    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
-  }
-}
-
-.group-hover\:bounceOrig:hover {
-  animation: bounceOrig 1s infinite;
-} */
-.overflow-x-scroll {
-  white-space: nowrap;
-}
